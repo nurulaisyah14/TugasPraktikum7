@@ -3,7 +3,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Nurul Aisyah|312310476|TI.22.A.5|Basis Data|
+|Nurul Aisyah|312310476|TI.23.A.5|Basis Data|
 
 # Studi Kasus : Sub Query
 
