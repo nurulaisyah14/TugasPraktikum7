@@ -126,6 +126,8 @@ SELECT * FROM Project_detail;
 
 
 
+
+
 ## Latihan Praktikum 7
 
 ### 1. Tampilkan data karyawan yang bekerja pada departemen yang sama dengan karyawan yang bernama Dika
